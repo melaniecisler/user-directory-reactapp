@@ -7,7 +7,7 @@
 As a USER
 I WANT to be able to view my entire employee directory at once so that I have quick access to their information.
 
-Description: The User Directory app solves the real world problem of keeping track of your employees by filtering first names. The app integrates a React, service worker, and axios. The  motivation to build this project was to help clients achieve their directory organizatio goals by having an accessible website that is easy to navigate. Having filtering functionality is paramount to our applications success. An employee or manager would benefit greatly from being able to view this employee directory. It would be particularly helpful to be able to filter employees by first name.
+Description: The User Directory app solves the real world problem of keeping track of your employees by filtering first names. The app integrates  React JS, service worker, and axios. The  motivation to build this project was to help clients achieve their directory organization goals by having an accessible website that is easy to navigate. Having filtering functionality is paramount to our applications success. An employee or manager would benefit greatly from being able to view this employee directory. It would be particularly helpful to be able to filter employees by first name.
 
 Technologies used: React JS, service worker, axios, react-dom, react-scripts. 
 
